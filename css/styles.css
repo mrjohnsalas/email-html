@@ -1,0 +1,44 @@
+   /*
+        Style: Inspinia
+        font-family: 'Open Sans', helvetica, arial, sans-serif;
+        navy-color: #1ab394
+        border-color: #f2eeed
+        primary-color: #2ab194
+        secondary-color: #f4f4f4
+        text-primary-color: #676a6c
+        text-secundary-color: #aeaeae
+        */
+
+        body { margin: 0; padding: 0; min-width: 100% !important; font-family: 'Open Sans', helvetica, arial, sans-serif; }
+        a { color: #1ab394; text-decoration: none; }
+        .table { width: 100%; border: 0px; border-spacing: 0px; }
+        .content { padding: 15px 0px 15px 0px; }
+        .table-content { width: 600px; border: 1px solid #f2eeed; border-collapse: collapse; border-spacing: 0px; }
+        .text-center { text-align: center; }
+        .text-right { text-align: right; }
+        .text-justify { text-align: justify; }
+        .navy-color { color: #1ab394; }
+
+        .header { background-color: #2ab194; padding: 30px; }
+        .header-title { color: #ffffff; font-size: 24px; font-weight: bold; margin: 0px; }
+        .header-subtitle { color: #ffffff; font-size: 10px; margin: 0px; }
+        .header-img { width: 100%; height: 60px; display: block; border: 0px }
+
+        .body { background-color: #ffffff; padding: 30px; }
+        .body-title { font-size: 24px; font-weight: bold; padding-bottom: 20px }
+        .body-subtitle { color: #676a6c; font-size: 18px; padding: 10px 0 10px 0; }
+        .body-text { color: #676a6c; font-size: 15px; line-height: 20px; padding: 10px 0 10px 0; }
+        .body-min-text { color: #676a6c; font-size: 13px; line-height: 17px; padding: 10px 0 10px 0; }
+        .body-row { border-bottom: 1px solid #f2eeed; }
+
+        .footer { background-color: #f4f4f4; padding: 30px; }
+        .footer-text { color: #aeaeae; font-size: 14px; }
+        .footer-social-img { width: 38px; height: 38px; display: block; border: 0px }
+
+        .wp-15 { width: 15%; }
+        .wp-75 { width: 75%; }
+        .w-20 { width: 20px; }
+        .w-70 { width: 70px; }
+        .w-480 { width: 480px; }
+        .p-0 { padding: 0px; }
+        .va-m { vertical-align: middle; }
